@@ -9,5 +9,6 @@
 > 가운데 글자 가져오기 ( https://programmers.co.kr/learn/courses/30/lessons/12903 )  
 > 두 개 뽑아서 더하기 ( https://programmers.co.kr/learn/courses/30/lessons/68644 )  
 > 가운데 글자 가져오기 ( https://programmers.co.kr/learn/courses/30/lessons/12903 )  
-> 두 정수 사이의 합 ( https://programmers.co.kr/learn/courses/30/lessons/12912 )
+> 두 정수 사이의 합 ( https://programmers.co.kr/learn/courses/30/lessons/12912 )  
+> 문자열 내림차순으로 배치하기 ( https://programmers.co.kr/learn/courses/30/lessons/12917 )
 ---
