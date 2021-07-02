@@ -15,4 +15,6 @@
 > 문자열을 정수로 바꾸기 ( https://programmers.co.kr/learn/courses/30/lessons/12925 )  
 > 수박수박수박수박수박수? ( https://programmers.co.kr/learn/courses/30/lessons/12922 )  
 > C++ 직사각형 별찍기 ( https://programmers.co.kr/learn/courses/30/lessons/12969 )  
+> 핸드폰 번호 가리기 ( https://programmers.co.kr/learn/courses/30/lessons/12948 )  
+> 약수의 합 ( https://programmers.co.kr/learn/courses/30/lessons/12928 )
 ---
