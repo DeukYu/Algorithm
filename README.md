@@ -1,6 +1,6 @@
 # Programmers(Coding Test)
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>    
+ 
 **C++**  
 > 내적 ( https://programmers.co.kr/learn/courses/30/lessons/70128 )   
 > 소수 만들기 ( https://programmers.co.kr/learn/courses/30/lessons/12977 )  
@@ -20,3 +20,4 @@
 > 이상한 문자 만들기 ( https://programmers.co.kr/learn/courses/30/lessons/12930 )  
 > K번째수 ( https://programmers.co.kr/learn/courses/30/lessons/42748 )
 ---
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>   
