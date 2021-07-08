@@ -18,6 +18,7 @@
 > 약수의 합 ( https://programmers.co.kr/learn/courses/30/lessons/12928 )  
 > 이상한 문자 만들기 ( https://programmers.co.kr/learn/courses/30/lessons/12930 )  
 > K번째수 ( https://programmers.co.kr/learn/courses/30/lessons/42748 )  
-> 폰켓몬 ( https://programmers.co.kr/learn/courses/30/lessons/1845 )
+> 폰켓몬 ( https://programmers.co.kr/learn/courses/30/lessons/1845 )  
+> [1차] 다트 게임 ( https://programmers.co.kr/learn/courses/30/lessons/17682 )
 ---
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>   
