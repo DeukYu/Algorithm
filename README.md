@@ -21,5 +21,6 @@
 > 폰켓몬 ( https://programmers.co.kr/learn/courses/30/lessons/1845 )  
 > [1차] 다트 게임 ( https://programmers.co.kr/learn/courses/30/lessons/17682 )  
 > 같은 숫자는 싫어 ( https://programmers.co.kr/learn/courses/30/lessons/12906 )  
+> 정수 내림차순으로 배치하기 ( https://programmers.co.kr/learn/courses/30/lessons/12933 )
 ---
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>   
