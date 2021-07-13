@@ -24,5 +24,8 @@
 > 정수 내림차순으로 배치하기 ( https://programmers.co.kr/learn/courses/30/lessons/12933 )  
 > 제일 작은 수 제거하기 ( https://programmers.co.kr/learn/courses/30/lessons/12935 )  
 > 짝수와 홀수 ( https://programmers.co.kr/learn/courses/30/lessons/12937 )  
+> x만큼 간격이 있는 n개의 숫자 ( https://programmers.co.kr/learn/courses/30/lessons/12954 )  
+> 완주하지 못한 선수 ( https://programmers.co.kr/learn/courses/30/lessons/42576 )  
+> 평균 구하기 ( https://programmers.co.kr/learn/courses/30/lessons/12944 )  
 ---
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>   
