@@ -29,5 +29,7 @@
 > 평균 구하기 ( https://programmers.co.kr/learn/courses/30/lessons/12944 )  
 > 체육복 ( https://programmers.co.kr/learn/courses/30/lessons/42862 )  
 > 행렬의 덧셈 ( https://programmers.co.kr/learn/courses/30/lessons/12950 )  
+> 하샤드 수 ( https://programmers.co.kr/learn/courses/30/lessons/12947 )  
+>
 ---
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>   
