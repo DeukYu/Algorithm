@@ -33,5 +33,6 @@
 > 콜라츠 추측 ( https://programmers.co.kr/learn/courses/30/lessons/12943 )  
 > 자연수 뒤집어 배열로 만들기 ( https://programmers.co.kr/learn/courses/30/lessons/12932 )  
 > 자릿수 더하기 ( https://programmers.co.kr/learn/courses/30/lessons/12931 )  
+> 정수 제곱근 판별 ( https://programmers.co.kr/learn/courses/30/lessons/12934 )
 ---
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>   
