@@ -35,5 +35,8 @@
 > 자릿수 더하기 ( https://programmers.co.kr/learn/courses/30/lessons/12931 )  
 > 정수 제곱근 판별 ( https://programmers.co.kr/learn/courses/30/lessons/12934 )  
 > 최대공약수와 최소공배수 ( https://programmers.co.kr/learn/courses/30/lessons/12940 )  
+> 시저 암호 ( https://programmers.co.kr/learn/courses/30/lessons/12926 )  
+> 문자열 내 p와 y의 개수 ( https://programmers.co.kr/learn/courses/30/lessons/12916 )  
+> 소수 찾기 ( https://programmers.co.kr/learn/courses/30/lessons/12921 )  
 ---
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>   
