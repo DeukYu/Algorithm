@@ -42,5 +42,7 @@
 > 나누어 떨어지는 숫자 배열 ( https://programmers.co.kr/learn/courses/30/lessons/12910 )  
 > 문자열 내 마음대로 정렬하기 ( https://programmers.co.kr/learn/courses/30/lessons/12915 )  
 > 2018 KAKAO BLIND RECRUITMENT : [1차] 비밀지도 ( https://programmers.co.kr/learn/courses/30/lessons/17681 )  
+> 2021 카카오 채용연계형 인턴십 - 숫자 문자열과 영단어 ( https://programmers.co.kr/learn/courses/30/lessons/81301 )  
+> SUMMER / WINTER CODING(~2018) - 예산 ( https://programmers.co.kr/learn/courses/30/lessons/12982 )  
 ---
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>   
