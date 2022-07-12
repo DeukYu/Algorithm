@@ -8,6 +8,7 @@
 > 일곱 난쟁이 ( https://www.acmicpc.net/problem/2309 )   
 > 알파벳 개수 ( https://www.acmicpc.net/problem/10808 )   
 > 트럭 주차 ( https://www.acmicpc.net/problem/2979 )   
+> 팰린드롬인지 확인하기 ( https://www.acmicpc.net/problem/10988 )   
 </br>
 
 ## Programmers    
