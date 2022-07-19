@@ -6,14 +6,21 @@
 
 ## Baekjoon   
 > 1159 : 농구 경기 ( https://www.acmicpc.net/problem/1159 )   
+> 1213 : 팰린드롬 만들기 ( https://www.acmicpc.net/problem/1213 )   
 > 1620 : 나는야 포켓몬 마스터 이다솜 ( https://www.acmicpc.net/problem/1620 )   
+> 1629 : 곱셈 ( https://www.acmicpc.net/problem/1629 )   
+> 1940 : 주몽 ( https://www.acmicpc.net/problem/1940 )   
 > 2309 : 일곱 난쟁이 ( https://www.acmicpc.net/problem/2309 )   
 > 2559 : 수열 ( https://www.acmicpc.net/problem/2559 )   
 > 2979 : 트럭 주차 ( https://www.acmicpc.net/problem/2979 )   
+> 3986 : 좋은 단어 ( https://www.acmicpc.net/problem/3986 )   
+> 4375 : 1 ( https://www.acmicpc.net/problem/4375 )   
+> 9375 : 패션왕 신해빈 ( https://www.acmicpc.net/problem/9375 )
 > 9996 : 한국이 그리울 땐 서버에 접속하지 ( https://www.acmicpc.net/problem/9996 )   
 > 10808 : 알파벳 개수 ( https://www.acmicpc.net/problem/10808 )   
 > 10988 : 팰린드롬인지 확인하기 ( https://www.acmicpc.net/problem/10988 )   
 > 11655 : ROT13 ( https://www.acmicpc.net/problem/11655 )   
+
 </br>
 
 ## Programmers    
