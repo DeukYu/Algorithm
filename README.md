@@ -14,6 +14,7 @@
 > 2178 : 미로탐색 ( https://www.acmicpc.net/problem/2178 )   
 > 2309 : 일곱 난쟁이 ( https://www.acmicpc.net/problem/2309 )   
 > 2468 : 안전 구역 ( https://www.acmicpc.net/problem/2309 )   
+> 2583 : 영역 구하기 ( https://www.acmicpc.net/problem/2309 )   
 > 2559 : 수열 ( https://www.acmicpc.net/problem/2559 )   
 > 2979 : 트럭 주차 ( https://www.acmicpc.net/problem/2979 )   
 > 3986 : 좋은 단어 ( https://www.acmicpc.net/problem/3986 )   
