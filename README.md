@@ -19,7 +19,7 @@
 > 2979 : 트럭 주차 ( https://www.acmicpc.net/problem/2979 )   
 > 3986 : 좋은 단어 ( https://www.acmicpc.net/problem/3986 )   
 > 4375 : 1 ( https://www.acmicpc.net/problem/4375 )   
-> 9375 : 패션왕 신해빈 ( https://www.acmicpc.net/problem/9375 )
+> 9375 : 패션왕 신해빈 ( https://www.acmicpc.net/problem/9375 )   
 > 9996 : 한국이 그리울 땐 서버에 접속하지 ( https://www.acmicpc.net/problem/9996 )   
 > 10808 : 알파벳 개수 ( https://www.acmicpc.net/problem/10808 )   
 > 10988 : 팰린드롬인지 확인하기 ( https://www.acmicpc.net/problem/10988 )   
