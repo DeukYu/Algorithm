@@ -18,7 +18,7 @@
 > 2583 : 영역 구하기 ( https://www.acmicpc.net/problem/2309 )   
 > 2559 : 수열 ( https://www.acmicpc.net/problem/2559 )   
 > 2828 : 사과 담기 게임 ( https://www.acmicpc.net/problem/2828 )   
-> 2910 : 빈도 정렬 ( https://www.acmicpc.net/problem/2910 )
+> 2910 : 빈도 정렬 ( https://www.acmicpc.net/problem/2910 )   
 > 2979 : 트럭 주차 ( https://www.acmicpc.net/problem/2979 )   
 > 3986 : 좋은 단어 ( https://www.acmicpc.net/problem/3986 )   
 > 4375 : 1 ( https://www.acmicpc.net/problem/4375 )   
