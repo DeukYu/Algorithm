@@ -29,12 +29,7 @@ int main()
 	{
 		string temp;
 		cin >> temp;
-
-		if (isCheck(temp))
-		{
-			cout << "YES" << endl;
-		}
-		else
-			cout << "NO" << endl;
+		if (isCheck(temp))	cout << "YES" << endl;
+		else cout << "NO" << endl;
 	}
 }
