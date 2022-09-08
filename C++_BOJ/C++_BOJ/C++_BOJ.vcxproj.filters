@@ -1,6 +1,142 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="2309_일곱_난쟁이.cpp" />
+    <ClCompile Include="1159_농구_경기.cpp">
+      <Filter>1.복잡도, 재귀함수, 누적합, 구현 등</Filter>
+    </ClCompile>
+    <ClCompile Include="1213_팰린드롬_만들기.cpp">
+      <Filter>1.복잡도, 재귀함수, 누적합, 구현 등</Filter>
+    </ClCompile>
+    <ClCompile Include="1620_나는야_포켓몬_마스터_이다솜.cpp">
+      <Filter>1.복잡도, 재귀함수, 누적합, 구현 등</Filter>
+    </ClCompile>
+    <ClCompile Include="1629_곱셈.cpp">
+      <Filter>1.복잡도, 재귀함수, 누적합, 구현 등</Filter>
+    </ClCompile>
+    <ClCompile Include="1940_주몽.cpp">
+      <Filter>1.복잡도, 재귀함수, 누적합, 구현 등</Filter>
+    </ClCompile>
+    <ClCompile Include="2309_일곱_난쟁이.cpp">
+      <Filter>1.복잡도, 재귀함수, 누적합, 구현 등</Filter>
+    </ClCompile>
+    <ClCompile Include="2559_수열.cpp">
+      <Filter>1.복잡도, 재귀함수, 누적합, 구현 등</Filter>
+    </ClCompile>
+    <ClCompile Include="2979_트럭_주차.cpp">
+      <Filter>1.복잡도, 재귀함수, 누적합, 구현 등</Filter>
+    </ClCompile>
+    <ClCompile Include="3986_좋은_단어.cpp">
+      <Filter>1.복잡도, 재귀함수, 누적합, 구현 등</Filter>
+    </ClCompile>
+    <ClCompile Include="4375_1.cpp">
+      <Filter>1.복잡도, 재귀함수, 누적합, 구현 등</Filter>
+    </ClCompile>
+    <ClCompile Include="9375_패션왕_신해빈.cpp">
+      <Filter>1.복잡도, 재귀함수, 누적합, 구현 등</Filter>
+    </ClCompile>
+    <ClCompile Include="9996_한국이그리울땐서버에접속하지.cpp">
+      <Filter>1.복잡도, 재귀함수, 누적합, 구현 등</Filter>
+    </ClCompile>
+    <ClCompile Include="10808_알파벳_갯수.cpp">
+      <Filter>1.복잡도, 재귀함수, 누적합, 구현 등</Filter>
+    </ClCompile>
+    <ClCompile Include="10988_팰린드롬인지_확인하기.cpp">
+      <Filter>1.복잡도, 재귀함수, 누적합, 구현 등</Filter>
+    </ClCompile>
+    <ClCompile Include="11655_ROT13.cpp">
+      <Filter>1.복잡도, 재귀함수, 누적합, 구현 등</Filter>
+    </ClCompile>
+    <ClCompile Include="2178_미로탐색.cpp">
+      <Filter>2.그래프이론 DFS BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="1012_유기농_배추.cpp">
+      <Filter>2.그래프이론 DFS BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="2468_안전_영역.cpp">
+      <Filter>2.그래프이론 DFS BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="2583_영역_구하기.cpp">
+      <Filter>2.그래프이론 DFS BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="1992_쿼드_트리.cpp">
+      <Filter>2.그래프이론 DFS BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="2828_사과_담기_게임.cpp">
+      <Filter>2.그래프이론 DFS BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="2910_빈도_정렬.cpp">
+      <Filter>2.그래프이론 DFS BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="4659_비밀번호_발음하기.cpp">
+      <Filter>2.그래프이론 DFS BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="2870_수학숙제.cpp">
+      <Filter>2.그래프이론 DFS BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="10709_기상캐스터.cpp">
+      <Filter>2.그래프이론 DFS BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="3474_교수가_된_현우.cpp">
+      <Filter>2.그래프이론 DFS BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="2852_NBA_농구.cpp">
+      <Filter>2.그래프이론 DFS BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="1436_영화감독_숌.cpp">
+      <Filter>2.그래프이론 DFS BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="9012_괄호.cpp">
+      <Filter>2.그래프이론 DFS BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="4949_균형잡힌_세상.cpp">
+      <Filter>2.그래프이론 DFS BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="14502_연구소.cpp">
+      <Filter>2.그래프이론 DFS BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="2636_치즈.cpp">
+      <Filter>2.그래프이론 DFS BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="1068_트리.cpp">
+      <Filter>2.그래프이론 DFS BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="1325_효율적인_해킹.cpp">
+      <Filter>2.그래프이론 DFS BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="17298_오큰수.cpp">
+      <Filter>2.그래프이론 DFS BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="1189_컴백홈.cpp">
+      <Filter>2.그래프이론 DFS BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="15686_치킨배달.cpp">
+      <Filter>3.완전탐색과 백트래킹</Filter>
+    </ClCompile>
+    <ClCompile Include="2589_보물섬.cpp">
+      <Filter>3.완전탐색과 백트래킹</Filter>
+    </ClCompile>
+    <ClCompile Include="16234_인구_이동.cpp">
+      <Filter>3.완전탐색과 백트래킹</Filter>
+    </ClCompile>
+    <ClCompile Include="4179_불.cpp">
+      <Filter>3.완전탐색과 백트래킹</Filter>
+    </ClCompile>
+    <ClCompile Include="12869_뮤탈리스크.cpp">
+      <Filter>3.완전탐색과 백트래킹</Filter>
+    </ClCompile>
+    <ClCompile Include="16637_괄호_추가하기.cpp">
+      <Filter>3.완전탐색과 백트래킹</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="1.복잡도, 재귀함수, 누적합, 구현 등">
+      <UniqueIdentifier>{b199cfb9-3b68-4e98-9673-047ded381368}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.그래프이론 DFS BFS">
+      <UniqueIdentifier>{ee848568-8c52-431e-ad21-48e92248e43a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3.완전탐색과 백트래킹">
+      <UniqueIdentifier>{5617d1a4-ecb6-497a-b2b9-908b29e41c70}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
 </Project>
