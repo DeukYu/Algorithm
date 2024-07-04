@@ -5,15 +5,16 @@ using namespace std;
 
 int solution(vector<string> want, vector<int> number, vector<string> discount) {
 	int answer = 0;
-	int index = 0;
+
+	map<string, int> wantMap, tempMap;
+	for (int i = 0; i < want.size(); ++i)
+	{
+		wantMap[want[i]] = number[i];
+	}
 
 	for(int i = 0; i + 10 <= discount.size(); ++i)
 	{
-		map<string, int> wantMap;
-		for (int i = 0; i < want.size(); ++i)
-		{
-			wantMap[want[i]] = number[i];
-		}
+		tempMap = wantMap;
 		int t = i + 10;
 		map<string, int> discountMap;
 		for (int j = i; j < t; ++j)
@@ -23,17 +24,17 @@ int solution(vector<string> want, vector<int> number, vector<string> discount) {
 
 		for (auto iter : discountMap)
 		{
-			if (wantMap.find(iter.first) != wantMap.end())
+			if (tempMap.find(iter.first) != tempMap.end())
 			{
-				int num = wantMap[iter.first] - iter.second;
+				int num = tempMap[iter.first] - iter.second;
 				if (num <= 0)
 				{
-					wantMap.erase(iter.first);
+					tempMap.erase(iter.first);
 				}
 			}
 		}
 
-		if (wantMap.empty())
+		if (tempMap.empty())
 		{
 			answer += 1;
 		}
