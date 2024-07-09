@@ -14,7 +14,6 @@ int solution(string dirs) {
 
 	tuple<int, int> curPos = make_tuple(0, 0);
 	set<pair<tuple<int, int>, tuple<int, int>>> visitedEdges;
-	bool visited[10][10] = { false, };
 	for (auto dir : dirs)
 	{
 		tuple<int, int> prevPos = curPos;
